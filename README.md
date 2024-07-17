@@ -1,6 +1,6 @@
 # Space Invaders Game - Object-Oriented Design
 
-**Date:** Decemeber, 2024
+**Date:** December, 2024
 
 ## Introduction
 
